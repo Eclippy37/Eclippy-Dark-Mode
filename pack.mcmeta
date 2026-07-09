@@ -1,0 +1,51 @@
+{
+    "pack": {
+        "pack_format": 15,
+        "supported_formats": {
+            "min_inclusive": 15,
+            "max_inclusive": 89
+        },
+        "min_format": 15,
+        "max_format": 89,
+        "description": [
+            {
+                "text": "☽ Dark Mode",
+                "color": "gold"
+            },
+            {
+                "text": "\nv1.0.0",
+                "color": "green"
+            },
+            {
+                "text": " - ",
+                "color": "dark_green"
+            },
+            {
+                "text": "Eclipse37_",
+                "color": "light_purple"
+            }
+        ]
+    },
+    "overlays": {
+        "entries": [
+            {
+                "formats": {
+                    "min_inclusive": 18,
+                    "max_inclusive": 89
+                },
+                "min_format": 18,
+                "max_format": 89,
+                "directory": "overlay_18"
+            },
+            {
+                "formats": {
+                    "min_inclusive": 34,
+                    "max_inclusive": 89
+                },
+                "min_format": 34,
+                "max_format": 89,
+                "directory": "overlay_34"
+            }
+        ]
+    }
+}
