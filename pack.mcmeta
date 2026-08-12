@@ -3,17 +3,17 @@
         "pack_format": 15,
         "supported_formats": {
             "min_inclusive": 15,
-            "max_inclusive": 89
+            "max_inclusive": 999
         },
         "min_format": 15,
-        "max_format": 89,
+        "max_format": 999,
         "description": [
             {
                 "text": "☽ Dark Mode",
                 "color": "gold"
             },
             {
-                "text": "\nv1.0.2",
+                "text": "\nv1.1.0",
                 "color": "green"
             },
             {
@@ -31,19 +31,19 @@
             {
                 "formats": {
                     "min_inclusive": 18,
-                    "max_inclusive": 89
+                    "max_inclusive": 999
                 },
                 "min_format": 18,
-                "max_format": 89,
+                "max_format": 999,
                 "directory": "overlay_18"
             },
             {
                 "formats": {
                     "min_inclusive": 34,
-                    "max_inclusive": 89
+                    "max_inclusive": 999
                 },
                 "min_format": 34,
-                "max_format": 89,
+                "max_format": 999,
                 "directory": "overlay_34"
             }
         ]
